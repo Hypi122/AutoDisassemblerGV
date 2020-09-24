@@ -1,5 +1,5 @@
 # AutoDisassemblerGV
- auto lul
+ nie zesraj sie
 
 # INSTRUCTION
 
