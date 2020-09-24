@@ -12,3 +12,7 @@
 # KNOWN BUGS
 
 1. When in infinite mode script will skip first item in inventory
+
+# CREDITS
+
+100% ME

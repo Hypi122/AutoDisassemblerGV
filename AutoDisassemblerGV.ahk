@@ -3,13 +3,6 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-
-
-;Gloria Victis
-;ahk_class UnityWndClass
-;ahk_exe gv.exe
-;ahk_pid 30552
-
 coordMode, Mouse, Window
 
 SlotIndexX:=0
