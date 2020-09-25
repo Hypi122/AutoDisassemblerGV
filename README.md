@@ -1,4 +1,5 @@
 # AutoDisassemblerGV
+nie zesraj sie 
 Simple script for Gloria Victis which helps you with disassembling.
 
 # INSTRUCTION
