@@ -1,7 +1,5 @@
 # AutoDisassemblerGV
 
-nie zesraj sie
- 
 Simple script for Gloria Victis which helps you with disassembling.
 
 # INSTRUCTION
@@ -11,7 +9,7 @@ Simple script for Gloria Victis which helps you with disassembling.
 3. Move inventory window maximally to the top-right
 4. Press ctrl+j for one pass through inventory or ctrl+k for infinite passes
 5. Press esc to stop
-
+6. Nie zesraj sie
 # KNOWN BUGS
 
 1. When in infinite mode script will skip first item in inventory
