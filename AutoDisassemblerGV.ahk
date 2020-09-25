@@ -55,8 +55,6 @@ SlotIndexY:=SlotIndexY+1
 SlotIndexX:=0
 }
 
-
-
 } ;koniec loopa
 
 
