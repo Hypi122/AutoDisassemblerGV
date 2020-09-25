@@ -1,6 +1,6 @@
 # AutoDisassemblerGV
 
-Simple script for Gloria Victis which helps you with disassembling.
+Simple auto disassemble script for Gloria Victis which helps you with disassembling.
 
 # INSTRUCTION
 
