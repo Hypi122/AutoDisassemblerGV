@@ -22,8 +22,8 @@ Loop,{
 ;---------------
 ActualSlotX:=FirstSlotX+(SlotIndexX*34)
 ActualSlotY:=FirstSlotY+(SlotIndexY*34)
-;click, right ,%ActualSlotX% ,%ActualSlotY% ;klika slot
-MouseMove,%ActualSlotX% ,%ActualSlotY%
+click, right ,%ActualSlotX% ,%ActualSlotY% ;klika slot
+;MouseMove,%ActualSlotX% ,%ActualSlotY%
 Sleep,200
 
 
@@ -36,10 +36,10 @@ x:=x
 y:=y
 }
 Sleep,200
-;click, %x%,%y% ;klika rozlozenie
-MouseMove,%x%,%y%
+click, %x%,%y% ;klika rozlozenie
+;MouseMove,%x%,%y%
 Sleep,200
-;click, 440,410 ;TAK button		nie da sie go przesunac xdd
+click, 440,410 ;TAK button		nie da sie go przesunac xdd
 
 
 ;---------------
@@ -65,8 +65,8 @@ Loop,{
 ;---------------
 ActualSlotX:=FirstSlotX+(SlotIndexX*34)
 ActualSlotY:=FirstSlotY+(SlotIndexY*34)
-;click, right ,%ActualSlotX% ,%ActualSlotY% ;klika slot
-MouseMove,%ActualSlotX% ,%ActualSlotY%
+click, right ,%ActualSlotX% ,%ActualSlotY% ;klika slot
+;MouseMove,%ActualSlotX% ,%ActualSlotY%
 Sleep,200
 
 
@@ -79,10 +79,10 @@ x:=x
 y:=y
 }
 Sleep,200
-;click, %x%,%y% ;klika rozlozenie
-MouseMove,%x%,%y%
+click, %x%,%y% ;klika rozlozenie
+;MouseMove,%x%,%y%
 Sleep,200
-;click, 440,410 ;TAK button		nie da sie go przesunac xdd
+click, 440,410 ;TAK button		nie da sie go przesunac xdd
 
 
 ;---------------
