@@ -1,5 +1,5 @@
 # AutoDisassemblerGV
- nie zesraj sie
+1. asd 
 
 # INSTRUCTION
 
